@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f536;
+    background: url('./imagen/Abeja.jpg');
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #0c0900;
+  }
+  
+  button {
+    font-size: 1.25rem;
+    color: rgb(236, 117, 19);
+  }
+  
+  #result, #feedback {
+    font-size: 1.5rem;
+    color: #000000;
+  }
+  
